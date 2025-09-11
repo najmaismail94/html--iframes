@@ -2,7 +2,7 @@
 
 En `iframe` (Inline frame) är ett HTML-element som används för att bädda in ett helt annat HTML-dokument, eller innehåll från en extern källa, inom den aktuella webbsidan. Det fungerar som ett extern fönster utan du behöver lämna den ursprungliga sidan.
 
-I denna uppgift ska ni skapa en sida med `header`, `footer` och en `sidebar` med `nav` och länkar. Länkarna ska gå till olika sidor vars innehåll visas i en `iframe` bredvid sidebar.
+I denna uppgift ska du skapa en sida med `header`, `footer` och en `sidebar` med `nav` och länkar. Länkarna ska gå till olika sidor vars innehåll visas i en `iframe` bredvid sidebar.
 
 ## 📝 Sidornas innehåll är valfritt
 
