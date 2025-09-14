@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  font-family: "Bacasime Antique", serif;
+  font-size: 18px;
+  color: black;
+}
+
+h1 {
+  font-family: 'Breezy Pro', sans-serif;
+  font-size: 6rem;   /* enorm header */
+  margin: 3rem 0;
+  text-align: center;
+}
+
+
+
+h2 {
+  font-family: 'Bacasime Antique', serif;
+  font-size: 20px;
+  margin: 1.5rem 0 1rem;
+  color: black;
+}
+
+
+iframe {
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+}
